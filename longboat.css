@@ -1,0 +1,41 @@
+body {
+    background-color: #3B0160;
+    color: #F0BF00;
+    font-family: sans-serif, "Times New Roman", "Helvetica";
+    font-size: 11px;
+    font-style: normal;
+    font-variant: normal; 
+    text-decoration: none;
+    list-style-type: square;
+    margin: auto;
+    padding: 0;
+}
+header {
+    background-color: #3B0160;
+    color: #F0BF00;
+}
+nav {
+    background-color: #F0BF00;
+    text-transform: uppercase;
+    font-size: 14pt
+}
+h1 {
+    margin-bottom: 0;
+}
+h2 {
+    background-color: #F0BF00 color: #3B0160;
+    font-family: helvetica;
+}
+h3 {
+    color: #F0BF00;
+}
+footer {
+    margin: auto;
+    width: 200px;
+    margin-top: 300px;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 8px;
+    text-align: center;
+    font-style: italic;
+}
